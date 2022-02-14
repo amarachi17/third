@@ -1,0 +1,35 @@
+aside {
+
+    background-color: rgb(105, 38, 192);
+    color: honeydew;
+  }
+
+.navbar{
+     display: flex;
+     
+    list-style-type: none;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 1em;
+ 
+  }
+ #carouselExampleCaptions{
+     margin-top: 10px;
+   margin-bottom: 15px;
+
+    
+ }
+ .game1{
+     column-count: 3;
+ }
+
+ .game2{
+     column-count: 3;
+ }
+
+ footer{
+     background-color: gray;
+     color: whitesmoke;
+     text-align: center;
+
+ }
